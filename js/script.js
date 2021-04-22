@@ -65,7 +65,7 @@ function nav(e) {
 
       $("#nav_title").text("My Cart");
     
-    }
+    } 
       
 }
 
